@@ -1,16 +1,12 @@
 {
-    "name": "SavitskayaM/tic-tac-toe",
+    "name": "savickayam/tic-tac-toe",
     "require": {
         "wp-cli/php-cli-tools": "^0.12.5"
     },
     "autoload": {
         "psr-4": {
-            "SavitskayaM\\tic-tac-toe\\": "src/"
-        },
-        "files": [
-            "src/Controller.php",
-            "src/View.php"
-        ]
+            "SavickayaM\\TicTacToe\\": "src/"
+        }
     },
     "bin": [
         "bin/tic-tac-toe"

@@ -41,7 +41,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/SavitskayaM/tic-tac-toe
+   git clone https://github.com/savickayam/tic-tac-toe
    ```
 
 2. **Перейдите в каталог проекта**:
@@ -62,7 +62,7 @@
    - Или если ваш пакет опубликован на Packagist, установите его глобально:
 
    ```bash
-   composer global require SavitskayaM/tic-tac-toe
+   composer global require savickayam/tic-tac-toe
    ```
 
    - И затем выполните команду:
@@ -81,4 +81,4 @@
 - [Composer Documentation](https://getcomposer.org/doc/)
 
 ## Ссылки на пакеты
-- [Packagist пакет Minesweeper](https://packagist.org/packages/SavitskayaM/tic-tac-toe) 
+- [Packagist пакет Minesweeper](https://packagist.org/packages/savickayam/tic-tac-toe) 
