@@ -13,4 +13,4 @@ if (file_exists($loadPath1)) {
 use SavickayaM\TicTacToe\Controller;
 
 $controller = new Controller();
-$controller->startGame();
+$controller->menu();

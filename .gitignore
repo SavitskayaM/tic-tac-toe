@@ -1,7 +1,7 @@
-**/vendor/
-**.vscode/
-
 /vendor/
+**.vscode/
+/tic-tac-toe.db
+
 composer.lock
 .DS_Store
 *.log
