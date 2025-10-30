@@ -67,7 +67,7 @@ class Controller
         return $inputArray;
     }
 
-    private function isСrosses(): bool
+    private function isCrosses(): bool
     {
         $isCrosses = rand(0, 1);
 
@@ -248,8 +248,4 @@ class Controller
 
         View::showGameRepeat($game);
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9eead40ba0b4064af5c4b45cfe82cfbd9ba44af7
