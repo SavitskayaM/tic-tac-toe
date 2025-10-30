@@ -102,4 +102,8 @@ class View
             );
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9eead40ba0b4064af5c4b45cfe82cfbd9ba44af7

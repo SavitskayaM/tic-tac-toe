@@ -1,6 +1,5 @@
 <?php
 
-
 namespace SavickayaM\TicTacToe;
 
 use SavickayaM\TicTacToe\View;
@@ -249,4 +248,8 @@ class Controller
 
         View::showGameRepeat($game);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9eead40ba0b4064af5c4b45cfe82cfbd9ba44af7
